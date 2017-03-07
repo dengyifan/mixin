@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/backend/backend_body/backend_body.iml" filepath="$PROJECT_DIR$/backend/backend_body/backend_body.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend_common/backend_common.iml" filepath="$PROJECT_DIR$/backend/backend_common/backend_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend_shared/backend_shared.iml" filepath="$PROJECT_DIR$/backend/backend_shared/backend_shared.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend_util/backend_util.iml" filepath="$PROJECT_DIR$/backend/backend_util/backend_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/front/front.iml" filepath="$PROJECT_DIR$/front/front.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixin.iml" filepath="$PROJECT_DIR$/mixin.iml" />
+    </modules>
+  </component>
+</project>

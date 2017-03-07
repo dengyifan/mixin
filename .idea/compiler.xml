@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="backend_body" />
+        <module name="backend_common" />
+        <module name="backend_shared" />
+        <module name="backend_util" />
+        <module name="front" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="backend" target="1.5" />
+      <module name="backend-body" target="1.5" />
+      <module name="backend-common" target="1.5" />
+      <module name="backend-shared" target="1.5" />
+      <module name="backend-util" target="1.5" />
+      <module name="backend_body" target="1.5" />
+      <module name="backend_common" target="1.5" />
+      <module name="backend_shared" target="1.5" />
+      <module name="backend_util" target="1.5" />
+      <module name="base" target="1.5" />
+      <module name="front" target="1.5" />
+      <module name="mixin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
