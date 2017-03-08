@@ -11,6 +11,7 @@
         <module name="backend_shared" />
         <module name="backend_util" />
         <module name="front" />
+        <module name="mixin_core" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +27,7 @@
       <module name="base" target="1.5" />
       <module name="front" target="1.5" />
       <module name="mixin" target="1.5" />
+      <module name="mixin_core" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

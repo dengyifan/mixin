@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/backend/backend_util/backend_util.iml" filepath="$PROJECT_DIR$/backend/backend_util/backend_util.iml" />
       <module fileurl="file://$PROJECT_DIR$/front/front.iml" filepath="$PROJECT_DIR$/front/front.iml" />
       <module fileurl="file://$PROJECT_DIR$/mixin.iml" filepath="$PROJECT_DIR$/mixin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mixin_core/mixin_core.iml" filepath="$PROJECT_DIR$/mixin_core/mixin_core.iml" />
     </modules>
   </component>
 </project>
