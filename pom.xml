@@ -21,6 +21,7 @@
         <module>backend/backend_common</module>
         <module>backend/backend_util</module>
         <module>backend/backend_shared</module>
+        <module>mixin_core</module>
 
     </modules>
 
